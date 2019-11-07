@@ -1,0 +1,5 @@
+[07-Nov-2019 13:04:56 UTC] PHP Warning:  Use of undefined constant InnoDB - assumed 'InnoDB' (this will throw an Error in a future version of PHP) in /home/geo/projects/qa/config/database.php on line 60
+[07-Nov-2019 13:10:30 UTC] PHP Warning:  Use of undefined constant InnoDB - assumed 'InnoDB' (this will throw an Error in a future version of PHP) in /home/geo/projects/qa/config/database.php on line 60
+[07-Nov-2019 13:13:14 UTC] PHP Warning:  Use of undefined constant InnoDB - assumed 'InnoDB' (this will throw an Error in a future version of PHP) in /home/geo/projects/qa/config/database.php on line 60
+[07-Nov-2019 13:14:11 UTC] PHP Warning:  Use of undefined constant InnoDB - assumed 'InnoDB' (this will throw an Error in a future version of PHP) in /home/geo/projects/qa/config/database.php on line 60
+[07-Nov-2019 13:20:50 UTC] PHP Warning:  Use of undefined constant InnoDB - assumed 'InnoDB' (this will throw an Error in a future version of PHP) in /home/geo/projects/qa/config/database.php on line 60
